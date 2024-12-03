@@ -1,4 +1,4 @@
-# GFG-S-POTD
+# POTD
 
 will contain the solutions of GFG's Problem of the days... for next 2-3 months will just solve 1-2 POTD/week...
 
